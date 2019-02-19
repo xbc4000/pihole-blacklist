@@ -5,17 +5,6 @@ Create custom [pi-hole](https://pi-hole.net/) [blocklists](https://github.com/pi
 ### Disclaimer
 *This project is in **no way** affiliated with the core Pi-Hole project or organization. This project was created as a contribution to the community by providing high quality blocklists. Use at your own risk.*
 
-## Screenshots
-Pi-hole dashboard with the default, light, and heavy porn blocklists installed;
-
-| Running with default ruleset | Top 1m (Light List) | All (Heavy List) |
-| :--------------------------: | :------------------:| :---------------:|
-| ![default blocklist](http://i.imgur.com/Nq9vCM7.png) | ![light blocklist](http://i.imgur.com/vA3YWjp.png) | ![heavy blocklist](http://i.imgur.com/7e8xpUl.png) |
-
-And the affect of having the porn list installed;
-
-![Site Blocked!](http://i.imgur.com/uzBFPxI.png)
-
 ## Supported lists
 
 Currently supported lists;
