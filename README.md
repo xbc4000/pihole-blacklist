@@ -1,4 +1,4 @@
-# my-pihole-blocklists
+# pihole-blocklists
 
 Create custom [pi-hole](https://pi-hole.net/) [blocklists](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists#block-more-than-advertisements) to block unwanted traffic to a network.
 
